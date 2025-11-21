@@ -1,6 +1,8 @@
 # Rope-Delivery-Robot Summary
 Developed for a college-wide robotics competition to create an autonomous seed-delivery robot, demonstrating a practical application of robotics for streamlined sample planting, resulting in a first place competition victory
 
+https://github.com/user-attachments/assets/61437b79-7de4-49bb-a286-b65e70ba0256
+
 # Full-Description
 This project started out as assigned work for my engineering class, although I did have
 two entries into the competition as I was attending two classes that were competing. The
