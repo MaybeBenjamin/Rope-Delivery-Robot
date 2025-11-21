@@ -3,6 +3,8 @@ Developed for a college-wide robotics competition to create an autonomous seed-d
 
 https://github.com/user-attachments/assets/61437b79-7de4-49bb-a286-b65e70ba0256
 
+Video Demonstrating Autonomous Function and Delivery
+
 # Full-Description
 This project started out as assigned work for my engineering class, although I did have
 two entries into the competition as I was attending two classes that were competing. The
